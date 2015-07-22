@@ -1,0 +1,37 @@
+/**
+ * Every step element has one of three classes: `future`, `present` and `past`.
+ * Only one current step has the `present` class.
+ * When a step is shown (selected) its element gets the class of "active" and
+ * the body element gets the class `impress-on-ID` where ID is the step's id.
+ */
+
+.notes {
+    display:none;
+}
+
+.step h2 {
+    font-size: 78px;
+    font-weight: bold;
+}
+
+#yeoman {
+    width: 700px;
+    padding-bottom: 300px;
+
+    /* Yoda Icon :: Pixel Art from Star Wars http://www.pixeljoint.com/pixelart/1423.htm */
+    background-image: url('http://yeoman.io/assets/img/yeoman-02.eed5.png');
+    background-position: bottom right;
+    background-repeat: no-repeat;
+}
+
+pre {
+  padding: .5em 1em;
+  background: #bfe6ed;
+  border-radius: .35em;
+  font-family: monospace,serif;
+  font-size: .75em;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  width:747px;
+  margin:10px 0 10px 0;
+}

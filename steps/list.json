@@ -1,0 +1,170 @@
+[
+    {
+        "uri": "start.html",
+        "id": "title",
+        "class": "step title",
+        "data": {
+            "x": -3000,
+            "y": -1500,
+            "z": 0,
+            "scale": 4,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "who-the-is-yeoman.html",
+        "id": "who-the-is-yeoman",
+        "class": "step",
+        "data": {
+            "x": 1000,
+            "y": -3000,
+            "z": 0,
+            "scale": 2,
+            "rotate-x": 45,
+            "rotate-y": 0,
+            "rotate-z": 45
+        }
+    },
+    {
+        "uri": "freeze-dried-development.html",
+        "id": "freeze-dried-development",
+        "class": "step",
+        "data": {
+            "x": 2000,
+            "y": 0,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "too-frickin-simple.html",
+        "id": "too-frickin-simple",
+        "class": "step",
+        "data": {
+            "x": 2000,
+            "y": -4500,
+            "z": -1000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 135
+        }
+    },
+    {
+        "uri": "integrates-well-with-bs.html",
+        "id": "integrates-well-with-bs",
+        "class": "step",
+        "data": {
+            "x": -2000,
+            "y": 0,
+            "z": 1000,
+            "scale": 1,
+            "rotate-x": 90,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "package-for-you-sir.html",
+        "id": "package-for-you-sir",
+        "class": "step",
+        "data": {
+            "x": 4000,
+            "y": 1500,
+            "z": 1000,
+            "scale": 1,
+            "rotate-x": 90,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "more-than-just-setups.html",
+        "id": "more-than-just-setups",
+        "class": "step",
+        "data": {
+            "x": 0,
+            "y": -1000,
+            "z": 1000,
+            "scale": 1,
+            "rotate-x": 90,
+            "rotate-y": 0,
+            "rotate-z": 180
+        }
+    },
+    {
+        "uri": "wanna-learn-a-new-stack.html",
+        "id": "wanna-learn-a-new-stack",
+        "class": "step",
+        "data": {
+            "x": 3000,
+            "y": -1000,
+            "z": 2000,
+            "scale": 1,
+            "rotate-x": 90,
+            "rotate-y": 0,
+            "rotate-z": 270
+        }
+    },
+    {
+        "uri": "lots-o-generators.html",
+        "id": "lots-o-generators",
+        "class": "step",
+        "data": {
+            "x": -4000,
+            "y": 500,
+            "z": 2000,
+            "scale": 1,
+            "rotate-x": 90,
+            "rotate-y": 0,
+            "rotate-z": 135
+        }
+    },
+    {
+        "uri": "time-for-a-demo.html",
+        "id": "time-for-a-demo",
+        "class": "step",
+        "data": {
+            "x": -2000,
+            "y": 2000,
+            "z": 1000,
+            "scale": 2,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "this-pres-brought-to-you-by-impressjs.html",
+        "id": "this-pres-brought-to-you-by-impressjs",
+        "class": "step",
+        "data": {
+            "x": 4000,
+            "y": 0,
+            "z": -1000,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "overview.html",
+        "id": "overview",
+        "class": "step",
+        "data": {
+            "x": 0,
+            "y": -500,
+            "z": 0,
+            "scale": 10,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    }
+]
