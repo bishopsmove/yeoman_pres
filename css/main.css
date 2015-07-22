@@ -17,11 +17,12 @@
 #yeoman {
     width: 700px;
     padding-bottom: 300px;
-
-    /* Yoda Icon :: Pixel Art from Star Wars http://www.pixeljoint.com/pixelart/1423.htm */
     background-image: url('http://yeoman.io/assets/img/yeoman-02.eed5.png');
     background-position: bottom right;
     background-repeat: no-repeat;
+}
+q > div{
+  font-size:.8em;
 }
 
 pre {
