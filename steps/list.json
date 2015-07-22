@@ -5,8 +5,8 @@
         "class": "step title",
         "data": {
             "x": -3000,
-            "y": -1500,
-            "z": 0,
+            "y": -2500,
+            "z": -2000,
             "scale": 4,
             "rotate-x": 0,
             "rotate-y": 0,
@@ -32,7 +32,7 @@
         "id": "freeze-dried-development",
         "class": "step",
         "data": {
-            "x": 2000,
+            "x": 3000,
             "y": 0,
             "z": 0,
             "scale": 1,
@@ -61,7 +61,7 @@
         "class": "step",
         "data": {
             "x": -2000,
-            "y": 0,
+            "y": -5000,
             "z": 1000,
             "scale": 1,
             "rotate-x": 90,
@@ -74,9 +74,9 @@
         "id": "package-for-you-sir",
         "class": "step",
         "data": {
-            "x": 4000,
-            "y": 1500,
-            "z": 1000,
+            "x": 5500,
+            "y": 2000,
+            "z": -2000,
             "scale": 1,
             "rotate-x": 90,
             "rotate-y": 0,
@@ -88,7 +88,7 @@
         "id": "more-than-just-setups",
         "class": "step",
         "data": {
-            "x": 0,
+            "x": 3000,
             "y": -1000,
             "z": 1000,
             "scale": 1,
@@ -116,9 +116,9 @@
         "id": "lots-o-generators",
         "class": "step",
         "data": {
-            "x": -4000,
-            "y": 500,
-            "z": 2000,
+            "x": 5000,
+            "y": -500,
+            "z": 1000,
             "scale": 1,
             "rotate-x": 90,
             "rotate-y": 0,
@@ -126,16 +126,30 @@
         }
     },
     {
+        "uri": "roll-your-own-generator.html",
+        "id": "roll-your-own-generator",
+        "class": "step",
+        "data": {
+            "x": 8000,
+            "y": 1000,
+            "z": 1000,
+            "scale": 1,
+            "rotate-x": 135,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
         "uri": "time-for-a-demo.html",
         "id": "time-for-a-demo",
         "class": "step",
         "data": {
-            "x": -2000,
+            "x": -7500,
             "y": 2000,
-            "z": 1000,
-            "scale": 2,
-            "rotate-x": 0,
-            "rotate-y": 0,
+            "z": -2000,
+            "scale": 1,
+            "rotate-x": 270,
+            "rotate-y": 45,
             "rotate-z": 90
         }
     },
@@ -145,7 +159,7 @@
         "class": "step",
         "data": {
             "x": 4000,
-            "y": 0,
+            "y": -2000,
             "z": -1000,
             "scale": 1,
             "rotate-x": 0,
